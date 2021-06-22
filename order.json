@@ -34,9 +34,9 @@
             "itemAmount":20, 
             "gstPercentage":"0.0000", 
             "onlineProductName":"", 
-            “remark”:"", 
+            "remark":"", 
          } 
       ], 
-     remark: "Order Remark"
+     "remark": "Order Remark"
    } 
 }
