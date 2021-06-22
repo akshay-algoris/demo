@@ -1,34 +1,35 @@
-{ 
-“items”: [ 
-{ 
-“itemCode”: “1”, 
-“itemName”: “ABC Product XXX gm”, 
-“weighted”: true/false, 
-“stock”: 123, 
-“mrp”: 100.00, 
-“salePrice”: 98.00, 
-“purchasePrice”: 80.50, 
-“gstPerctange”: 0.0, 
-“hsnCode”: “870410”, 
-“rackId”: “F01R02S01”, 
-“lastUpdateTime”: 133456987 
-}, 
-{ 
-“itemCode”: “2”, 
-“itemName”: “XYZ Product 50 gm”, 
-“weighted”: true/false, 
-“stock”: 25, 
-“mrp”: 50.00, 
-“salePrice”: 40.00, 
-“purchasePrice”: 38.50, 
-“gstPerctange”: 0.0, 
-“hsnCode”: “870410”, 
-“rackId”: “F01R02S01”, 
-“lastUpdateTime”: 133456998 
-} 
-], 
-“totalItems”: 350, 
-“currentPage”: 1, 
-“perPage”: 100, 
-“totalPages”: 4 
-} 
+
+{
+"items": [
+    {
+        "itemCode": "1", 
+        "itemName": "ABC Product XXX gm", 
+        "weighted": true, 
+        "stock": 123, 
+        "mrp": 100.00, 
+        "salePrice": 98.00, 
+        "purchasePrice": 80.50, 
+        "gstPerctange": 0.0, 
+        "hsnCode": "870410", 
+        "rackId": "F01R02S01", 
+        "lastUpdateTime": 133456987 
+    },
+    {
+        "itemCode": "2", 
+        "itemName": "XYZ Product 50 gm", 
+        "weighted": true, 
+        "stock": 25, 
+        "mrp": 50.00, 
+        "salePrice": 40.00, 
+        "purchasePrice": 38.50, 
+        "gstPerctange": 0.0, 
+        "hsnCode": "870410", 
+        "rackId": "F01R02S01", 
+        "lastUpdateTime": 133456998 
+    }
+    ],
+    "totalItems": 350, 
+    "currentPage": 1, 
+    "perPage": 100, 
+    "totalPages": 4 
+}
