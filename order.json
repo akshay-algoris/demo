@@ -1,0 +1,42 @@
+{ 
+   "salesOrder":{ 
+      "onlineReferenceNo":"1", 
+      "status":"pending", 
+      "totalQuantity":1, 
+      "totalAmount":22, 
+      "totalTaxAmount":0, 
+      "totalDiscountAmount":0, 
+      "shippingId": 0, 
+      "shippingName":"Home Delivery", 
+      "shippingAddress1":"111, 1111343, ABC", 
+      "shippingPlace":"City Name", 
+      "shippingCountry":"India", 
+      "shippingPincode":"600000", 
+      "shippingMobile":"9999999999", 
+      "shippingemail":"abcd@mail.com", 
+      "customerId":null, 
+      "customerName":"ABCD", 
+      "customerAddressLine1":"111, 1111343, ABC", 
+      "customerCity":"City Name", 
+      "customerCountry":"India", 
+      "customerPincode":"600000", 
+      "customerMobile":"9999999999", 
+      "customerPhone":"9999999999", 
+      "customeremail":"abcd@mail.com", 
+ 
+ 
+      "customerGSTN":null, 
+      "orderItems":[ 
+         { 
+            "itemCode":"1", 
+            "salePrice":20, 
+            "quantity":2, 
+            "itemAmount":20, 
+            "gstPercentage":"0.0000", 
+            "onlineProductName":"", 
+            “remark”:"", 
+         } 
+      ], 
+     remark: "Order Remark"
+   } 
+}
