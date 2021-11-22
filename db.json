@@ -5,7 +5,7 @@
         "itemCode": "1002", 
         "itemName": "Apple", 
         "weighted": true, 
-        "stock": 205, 
+        "stock": 200, 
         "mrp": 200.00, 
         "salePrice": 98.00, 
         "purchasePrice": 80.50, 
