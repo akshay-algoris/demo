@@ -2,8 +2,8 @@
 {
 "items": [
     {
-        "itemCode": "272", 
-        "itemName": "ABC Product XXX gm", 
+        "itemCode": "1002", 
+        "itemName": "Apple", 
         "weighted": true, 
         "stock": 150, 
         "mrp": 200.00, 
@@ -15,8 +15,8 @@
         "lastUpdateTime": 133456987 
     },
     {
-        "itemCode": "275", 
-        "itemName": "XYZ Product 50 gm", 
+        "itemCode": "1003", 
+        "itemName": "Orange", 
         "weighted": true, 
         "stock": 80, 
         "mrp": 50.00, 
